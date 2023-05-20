@@ -23,6 +23,24 @@ return [
     'gender' => [
         'relation' => [],
         'way' => [
+            '63657846' => 'M', // Stanisława Dąbka - there are two of them
+            '29468806' => 'M', // Roberta Kocha - unknown patron
+            '23369480' => 'M', // Bohdana Zaleskiego - unknown patron, there are at least two
+            '1159020446' => 'M', // Mikołaja Sieniawskiego - unknown, there are more
+            '239165560' => 'M', // Stanisława Koniecpolskiego - unknown, there are more
+            '239165561' => 'M', // Stanisława Żółkiewskiego - unknown, there are more
+            '15276240' => 'M', // Aleksandra Ostrowskiego - unknown patron
+            '17275284' => 'F', // Wandy - unknown patron
+            '113983453' => 'M', // Władysława Jagiełły - not sure patron
+            '16584770' => 'M', // Most Władysława Sikorskiego - unknown patron
+            '188337233' => 'M', // Marcelego Bacciarellego - unknown patron
+            '22661455' => 'M', // Zygmunta Sierakowskiego - unknown patron
+            '27763310' => 'M', // Jana Szczyrki - unknown patron
+            '24444619' => 'M', // Stefana Czarnieckiego - unknown patron
+            '25522251' => 'M', // Andrzeja Struga - unknown patron
+            '22635259' => 'M', // Piotra Czajkowskiego - unknown patron
+            '112734355' => 'M', // Podpułkownika Stanisława Skarżyńskiego - unknown
+            
             /*
             '12121212' => 'F', // Pia Mancini road
             '13131312' => 'M', // Mister nobody Street
