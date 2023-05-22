@@ -2,6 +2,7 @@ name,source,gender,wikidata,type
 "Ewy i Karola Maleczyńskich",wikidata,+,Q11736185;Q9256757,way
 "Heleny i Ludwika Adamczewskich",wikidata,+,Q100591031;Q9287272,way
 "bulwar Marii i Lecha Kaczyńskich",wikidata,+,Q215342;Q2757,way
+"Błogosławionej Edyty Stein",wikidata,F,Q76749,way
 "Danuty Siedzikówny",wikidata,F,Q45379,way
 "Elizy Orzeszkowej",wikidata,F,Q240174,way
 "Emilii Plater",wikidata,F,Q294136,way
@@ -22,6 +23,7 @@ name,source,gender,wikidata,type
 "Wandy Rutkiewicz",wikidata,F,Q237493,way
 "Wisławy Szymborskiej",wikidata,F,Q42552,way
 "Zofii Gumińskiej",wikidata,F,Q20640155,way
+"bulwar Świętej Matki Teresy z Kalkuty",wikidata,F,Q30547,way
 "Świętej Doroty",wikidata,F,Q242274,way
 "Świętej Elżbiety",wikidata,F,Q159862,way
 "Świętej Jadwigi",wikidata,F,Q57520,way
@@ -45,10 +47,12 @@ name,source,gender,wikidata,type
 "Aleja Ludomira Różyckiego",wikidata,M,Q1800718,way
 "Aleja Marcina Kromera",wikidata,M,Q66649,way
 "Aleja Tadeusza Boya-Żeleńskiego",wikidata,M,Q699597,way
+"Alejka Świętego Andrzeja Apostoła",wikidata,M,Q43399,way
 "Aleksandra Hercena",wikidata,M,Q201221,way
 "Aleksandra Kotsisa",wikidata,M,Q942477,way
 "Aleksandra Zelwerowicza",wikidata,M,Q609407,way
 "Aleksandra hrabiego Fredry",wikidata,M,Q380506,way
+"Aleksandra Świętochowskiego",wikidata,M,Q723324,way
 "Alfreda Nobla",wikidata,M,Q23810,way
 "Andrzeja Cinciały",wikidata,M,Q9151807,way
 "Andrzeja Frycza-Modrzewskiego",wikidata,M,Q728305,way
@@ -63,6 +67,7 @@ name,source,gender,wikidata,type
 "Artura Grottgera",wikidata,M,Q714401,way
 "Artura Młodnickiego",wikidata,M,Q9160710,way
 "Artura Oppmana",wikidata,M,Q8863973,way
+"Augusta Cieszkowskiego",wikidata,M,Q176163,way
 "Augusta Mosbacha",wikidata,M,Q9162016,way
 "Augustyna Kośnego",wikidata,M,Q9162166,way
 "Bartłomieja Strachowskiego",wikidata,M,Q20030742,way
@@ -160,13 +165,16 @@ name,source,gender,wikidata,type
 "Jana Długosza",wikidata,M,Q326493,way
 "Jana Ewangelisty Purkyniego",wikidata,M,Q159542,way
 "Jana Głogowczyka",wikidata,M,Q579504,way
+"Jana Henryka Pestalozziego",wikidata,M,Q105428,way
 "Jana Kiepury",wikidata,M,Q713265,way
 "Jana Kilińskiego",wikidata,M,Q383201,way
 "Jana Lechonia",wikidata,M,Q1399280,way
 "Jana Mikulicza-Radeckiego",wikidata,M,Q66944,way
 "Jana Nowaka-Jeziorańskiego",wikidata,M,Q835577,way
+"Jana Palacha",wikidata,M,Q192893,way
 "Jana Sebastiana Bacha",wikidata,M,Q1339,way
 "Jana Stanisławskiego",wikidata,M,Q923415,way
+"Jana Styki i Wojciecha Kossaka",wikidata,M,Q708238;Q727637,way
 "Jana Władysława Dawida",wikidata,M,Q6150246,way
 "Jana Żiżki",wikidata,M,Q215968,way
 "Janusza Korczaka",wikidata,M,Q152441,way
@@ -181,6 +189,8 @@ name,source,gender,wikidata,type
 "Józefa Elsnera",wikidata,M,Q471647,way
 "Józefa Ignacego Kraszewskiego",wikidata,M,Q254524,way
 "Józefa Lompy",wikidata,M,Q11730843,way
+"Józefa Marii Hoene-Wrońskiego",wikidata,M,Q331856,way
+"Józefa Mianowskiego",wikidata,M,Q2366158,way
 "Józefa Pankiewicza",wikidata,M,Q1038450,way
 "Józefa Rostafińskiego",wikidata,M,Q506075,way
 "Józefa Supińskiego",wikidata,M,Q6320673,way
@@ -192,6 +202,7 @@ name,source,gender,wikidata,type
 "Jurija Gagarina",wikidata,M,Q7327,way
 "Kardynała Augusta Hlonda",wikidata,M,Q508834,way
 "Kardynała Bolesława Kominka",wikidata,M,Q62701,way
+"Kardynała Mieczysława Ledóchowskiego",wikidata,M,Q712071,way
 "Kardynała Stefana Wyszyńskiego",wikidata,M,Q165522,way
 "Karola Libelta",wikidata,M,Q480221,way
 "Karola Lipińskiego",wikidata,M,Q390986,way
@@ -214,6 +225,7 @@ name,source,gender,wikidata,type
 "Księcia Witolda",wikidata,M,Q218186,way
 "Księdza Augustyna Kordeckiego",wikidata,M,Q2734848,way
 "Księdza Czesława Klimasa",wikidata,M,Q11692233,way
+"Księdza Emila Szramka",wikidata,M,Q2319675,way
 "Księdza Franciszka Salezego Jezierskiego",wikidata,M,Q5484322,way
 "Księdza Grzegorza Piramowicza",wikidata,M,Q3920823,way
 "Księdza Józefa Matuszka",wikidata,M,Q11730923,way
@@ -229,6 +241,8 @@ name,source,gender,wikidata,type
 "Leopolda Staffa",wikidata,M,Q223230,way
 "Lothara Herbsta",wikidata,M,Q956463,way
 "Lucjana Siemieńskiego",wikidata,M,Q1873662,way
+"Ludwika Krzywickiego",wikidata,M,Q693328,way
+"Ludwika Kubali",wikidata,M,Q4243472,way
 "Ludwika Nabielaka",wikidata,M,Q11763871,way
 "Ludwika Pugeta",wikidata,M,Q11763900,way
 "Ludwika Rydygiera",wikidata,M,Q342258,way
@@ -236,6 +250,7 @@ name,source,gender,wikidata,type
 "Majora Henryka Sucharskiego",wikidata,M,Q939926,way
 "Maksymiliana Jackowskiego",wikidata,M,Q6740377,way
 "Marcelego Bacciarellego",wikidata,M,Q380717,way
+"Marcelego Handelsmana",wikidata,M,Q766343,way
 "Marcelego Nenckiego",wikidata,M,Q1715588,way
 "Marcina Borelowskiego",wikidata,M,Q11767495,way
 "Mariana Morelowskiego",wikidata,M,Q11769579,way
@@ -245,6 +260,7 @@ name,source,gender,wikidata,type
 "Maurycego Ravela",wikidata,M,Q1178,way
 "Maxa Berga",wikidata,M,Q67034,way
 "Michała Bałuckiego",wikidata,M,Q1894116,way
+"Michała Tadeusza Falzmanna",wikidata,M,Q8861190,way
 "Mieczysława Karłowicza",wikidata,M,Q508891,way
 "Mieczysława Romanowskiego",wikidata,M,Q4893322,way
 "Mieczysława Zlata",wikidata,M,Q11780082,way
@@ -306,6 +322,7 @@ name,source,gender,wikidata,type
 "Stanisława Worcella",wikidata,M,Q443050,way
 "Stefana Drzewieckiego",wikidata,M,Q1975471,way
 "Stefana Jaracza",wikidata,M,Q3622841,way
+"Stefana Żeromskiego",wikidata,M,Q366040,way
 "Tadeusza Brzozy",wikidata,M,Q16609366,way
 "Tadeusza Czackiego",wikidata,M,Q2638575,way
 "Tadeusza Gajcego",wikidata,M,Q2529964,way
@@ -374,6 +391,7 @@ name,source,gender,wikidata,type
 "wybrzeże Stanisława Wyspiańskiego",wikidata,M,Q312627,way
 "Świętego Antoniego",wikidata,M,Q167477,way
 "Świętego Idziego",wikidata,M,Q149727,way
+"Świętego Jana Kapistrana",wikidata,M,Q310359,way
 "Świętego Jerzego",wikidata,M,Q48438,way
 "Świętego Marcina",wikidata,M,Q133704,way
 "Świętego Mikołaja",wikidata,M,Q44269,way
