@@ -16,6 +16,7 @@ Austriacka,wikidata,,Q40,way
 Bałtycka,wikidata,,Q545,way
 Bażancia,wikidata,,Q25432,way
 Belgijska,wikidata,,Q31,way
+Belgradzka,wikidata,,Q3711,way
 Benedyktyńska,wikidata,,Q131132,way
 Bernardyńska,wikidata,,Q826424,way
 Białoruska,wikidata,,Q184,way
@@ -69,6 +70,7 @@ Indonezyjska,wikidata,,Q252,way
 Inflancka,wikidata,,Q183464,way
 Inowrocławska,wikidata,,Q378821,way
 Iracka,wikidata,,Q796,way
+Irkucka,wikidata,,Q6576,way
 Jagienki,wikidata,,Q11716129,way
 "Jana Skrzetuskiego",wikidata,,Q6149927,way
 "Jana i Jędrzeja Śniadeckich",wikidata,,Q114737283,way
@@ -89,6 +91,7 @@ Katedralna,wikidata,,Q910211,way
 Katowicka,wikidata,,Q588,way
 Kazachstańska,wikidata,,Q232,way
 Kaznodziejska,wikidata,,Q432386,way
+Kiełczowska,wikidata,,Q582219,way
 Kluczborska,wikidata,,Q79322,way
 Kminkowa,wikidata,,Q26811,way
 Kominiarska,wikidata,,Q506126,way
@@ -117,6 +120,7 @@ Libańska,wikidata,,Q822,way
 Litewska,wikidata,,Q37,way
 Lokomotywowa,wikidata,,Q93301,way
 Lubińska,wikidata,,Q237512,way
+Lublańska,wikidata,,Q437,way
 Malezyjska,wikidata,,Q833,way
 Mandżurska,wikidata,,Q81126,way
 Manganowa,wikidata,,Q731,way
@@ -135,10 +139,12 @@ Nauczycielska,wikidata,,Q37226,way
 Norweska,wikidata,,Q20,way
 Nowogródzka,wikidata,,Q278743,way
 Obornicka,wikidata,,Q936101,way
+Odeska,wikidata,,Q1874,way
 "Ofiar Oświęcimskich",wikidata,,Q5883980,way
 Ogórkowa,wikidata,,Q148758,way
 Oleśnicka,wikidata,,Q138229,way
 Olsztyńska,wikidata,,Q82765,way
+Omska,wikidata,,Q898,way
 "Onufrego Zagłoby",wikidata,,Q648642,way
 Opolska,wikidata,,Q92212,way
 Oławska,wikidata,,Q924049,way
@@ -170,8 +176,10 @@ Rodła,wikidata,,Q7357514,way
 Rowerowa,wikidata,,Q11442,way
 "Róży Wiatrów",wikidata,,Q640047,way
 Ruska,wikidata,,Q609850,way
+Ryska,wikidata,,Q1773,way
 Rzemieślnicza,wikidata,,Q1294787,way
 Rzeźnicza,wikidata,,Q329737,way
+Sarajewska,wikidata,,Q11194,way
 Semaforowa,wikidata,,Q862562,way
 Serbska,wikidata,,Q403,way
 Siemianowicka,wikidata,,Q158485,way
@@ -202,6 +210,7 @@ Sądowa,wikidata,,Q41487,way
 Słowacka,wikidata,,Q214,way
 Tadżycka,wikidata,,Q863,way
 Tajwańska,wikidata,,Q865,way
+Tallińska,wikidata,,Q1770,way
 Tarnogajska,wikidata,,Q9355713,way
 Tarnogórska,wikidata,,Q329833,way
 Toruńska,wikidata,,Q47554,way
@@ -224,6 +233,7 @@ Wronia,wikidata,,Q25405,way
 Wspólna,wikidata,,Q9828451,way
 Węgierska,wikidata,,Q28,way
 Zachodnia,wikidata,,Q679,way
+Zagrzebska,wikidata,,Q1435,way
 Zdrowa,wikidata,,Q12147,way
 Zegarmistrzowska,wikidata,,Q157798,way
 Zwiadowców,wikidata,,Q2314719,way
@@ -333,7 +343,6 @@ Bazyliowa,,,,way
 Bałkańska,,,,way
 "Beaty Artemskiej",,,,way
 Bednarska,,,,way
-Belgradzka,,,,way
 Belwederczyków,,,,way
 Bengalska,,,,way
 Berberysowa,,,,way
@@ -663,7 +672,6 @@ Imbirowa,,,,way
 Innowacyjna,,,,way
 Inspektowa,,,,way
 Inżynierska,,,,way
-Irkucka,,,,way
 Irlandzka,,,,way
 Irysowa,,,,way
 Ishibashi,,,,way
@@ -780,7 +788,6 @@ Ketlinga,,,,way
 Kielecka,,,,way
 Kiemliczów,,,,way
 Kiełbaśnicza,,,,way
-Kiełczowska,,,,way
 Klasztorna,,,,way
 Klecińska,,,,way
 Kleczkowska,,,,way
@@ -928,7 +935,6 @@ Lubawska,,,,way
 Lubczykowa,,,,way
 Lubelska,,,,way
 Lubiąska,,,,way
-Lublańska,,,,way
 Lubska,,,,way
 Lubuska,,,,way
 Ludowa,,,,way
@@ -1151,7 +1157,6 @@ Oboźna,,,,way
 "Obrońców Poczty Gdańskiej",,,,way
 Ochocza,,,,way
 Odcinek,,,,way
-Odeska,,,,way
 Odkrywców,,,,way
 Odolanowska,,,,way
 "Odrodzenia Polski",,,,way
@@ -1166,7 +1171,6 @@ Oksywska,,,,way
 Olbrachtowska,,,,way
 Oleska,,,,way
 Olkuska,,,,way
-Omska,,,,way
 Opalowa,,,,way
 Opatowicka,,,,way
 Opoczyńska,,,,way
@@ -1442,7 +1446,6 @@ Rynek,,,,relation+way
 "Rynek Psiego Pola",,,,way
 "Rynek Ratusz",,,,way
 Rysia,,,,way
-Ryska,,,,way
 Rytownicza,,,,way
 Ryżowa,,,,way
 Rzeczna,,,,way
@@ -1463,7 +1466,6 @@ Samotworska,,,,way
 "Samuela Dicksteina",,,,way
 Sanocka,,,,way
 Saperów,,,,way
-Sarajewska,,,,way
 Sarbinowska,,,,way
 Sarnia,,,,way
 Sasankowa,,,,way
@@ -1642,7 +1644,6 @@ Słupska,,,,way
 "Tadeusza Mikulskiego",,,,way
 "Tadeusza Wendy",,,,way
 "Taiko Bashi",,,,way
-Tallińska,,,,way
 Tapicerska,,,,way
 Targowa,,,,way
 Tarninowa,,,,way
@@ -1805,7 +1806,6 @@ Zabłocie,,,,way
 Zagaje,,,,way
 Zagony,,,,way
 Zagrodnicza,,,,way
-Zagrzebska,,,,way
 Zagłębiowska,,,,way
 Zajazdowa,,,,way
 Zajączkowska,,,,way
