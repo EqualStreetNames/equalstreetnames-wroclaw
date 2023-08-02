@@ -288,7 +288,7 @@ name,source,gender,wikidata,type
 "Plac Generała Walerego Wróblewskiego",wikidata,M,Q726985,way
 "Plac Gustawa Daniłowskiego",wikidata,M,Q5849782,way
 "Plac Icchaka Lejba Pereca",wikidata,M,Q425644,way
-"Plac Jana Pawła II",wikidata,M,Q989,way
+"Plac Jana Pawła II",wikidata,M,Q47499;Q989;Q989,way
 "Plac Ludwika Hirszfelda",wikidata,M,Q43466,way
 "Plac Ludwika Zamenhofa",wikidata,M,Q11758,way
 "Plac Marszałka Józefa Piłsudskiego",wikidata,M,Q885,way

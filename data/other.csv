@@ -3,6 +3,7 @@ Afgańska,wikidata,,Q889,way
 "Aleja Architektów",wikidata,,Q42973,way
 "Aleja Armii Krajowej",wikidata,,Q152529,way
 "Aleja Profesorów",wikidata,,Q121594,way
+"Aleja Wielkiej Wyspy",wikidata,,Q152529,way
 "Aleja Wiśniowa",wikidata,,Q2946681,way
 "Aleja Śląska",wikidata,,Q81720,way
 Alpejska,wikidata,,Q1286,way
@@ -162,7 +163,9 @@ Piwna,wikidata,,Q44,way
 "Plac Katedralny",wikidata,,Q910211,way
 "Plac Kościelny",wikidata,,Q11741013,way
 "Plac Muzealny",wikidata,,Q15127520,way
+"Plac Nowy Targ",wikidata,,Q330284,way
 "Plac Orląt Lwowskich",wikidata,,Q1777763,way
+"Plac Solny",wikidata,,Q11254,relation+way
 "Plac Wolności",wikidata,,Q2979,relation+way
 Podwale,wikidata,,Q15848816,way
 Poleska,wikidata,,Q208987,way
@@ -271,7 +274,6 @@ Agrestowa,,,,way
 "Aleja Północna",,,,way
 "Aleja Pracy",,,,way
 "Aleja Róż",,,,way
-"Aleja Wielkiej Wyspy",,,,way
 "Aleja Wiązowa",,,,way
 "Aleja Wędrowców",,,,way
 "Aleja Śliwowa",,,,way
@@ -665,7 +667,6 @@ Innowacyjna,,,,way
 Inspektowa,,,,way
 Inżynierska,,,,way
 Irlandzka,,,,way
-Irysowa,,,,way
 Ishibashi,,,,way
 "Iwana Franki",,,,way
 "Iwana Pawłowa",,,,way
@@ -884,6 +885,7 @@ Kętrzyńska,,,,way
 "Kładka Jacka i Agatki",,,,way
 "Kładka Leśnicka",,,,way
 "Kładka Na Groblę",,,,way
+"Kładka Oporowska",,,,way
 "Kładka Piaskowa",,,,way
 "Kładka Radiowej Trójki",,,,way
 "Kładka Siedlecka",,,,way
@@ -1051,6 +1053,7 @@ Morwowa,,,,way
 "Most Muchoborski",,,,way
 "Most Młyński Północny",,,,way
 "Most Młyński Południowy",,,,way
+"Most Olimpijski",,,,way
 "Most Oporowski",,,,way
 "Most Osobowicki",,,,way
 "Most Oławski",,,,way
@@ -1265,14 +1268,12 @@ Pińska,,,,way
 "Plac Kaliski",,,,way
 "Plac Konstytucji 3 Maja",,,,way
 "Plac Legionów",,,,way
-"Plac Nowy Targ",,,,way
 "Plac Polski",,,,way
 "Plac Powstańców Warszawy",,,,way
 "Plac Powstańców Wielkopolskich",,,,relation+way
 "Plac Powstańców Śląskich",,,,way
 "Plac Rozjezdny",,,,way
 "Plac Solidarności",,,,way
-"Plac Solny",,,,relation+way
 "Plac Srebrny",,,,way
 "Plac Strzegomski",,,,way
 "Plac Strzelecki",,,,way
@@ -1319,6 +1320,7 @@ Połaniecka,,,,way
 Północna,,,,way
 Południowa,,,,way
 Pracka,,,,way
+Prawa,,,,way
 Prochowicka,,,,way
 Promenada,,,,way
 "Promenada Staromiejska",,,,way
@@ -1708,6 +1710,7 @@ Warsztatowa,,,,way
 Watowa,,,,way
 Wał,,,,way
 Wałowa,,,,way
+Wedutowa,,,,way
 Wejherowska,,,,way
 Wenedów,,,,way
 Wesoła,,,,way
