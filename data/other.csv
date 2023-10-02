@@ -3,7 +3,6 @@ Afgańska,wikidata,,Q889,way
 "Aleja Architektów",wikidata,,Q42973,way
 "Aleja Armii Krajowej",wikidata,,Q152529,way
 "Aleja Profesorów",wikidata,,Q121594,way
-"Aleja Wielkiej Wyspy",wikidata,,Q152529,way
 "Aleja Wiśniowa",wikidata,,Q2946681,way
 "Aleja Śląska",wikidata,,Q81720,way
 Alpejska,wikidata,,Q1286,way
@@ -256,6 +255,7 @@ Zwiadowców,wikidata,,Q2314719,way
 "11 Listopada",,,,way
 "3 Maja",,,,way
 "8 Maja",,,,way
+"Ady Sari",,,,way
 Agatowa,,,,way
 Agrestowa,,,,way
 "Al. Bzowa",,,,way
@@ -902,7 +902,6 @@ Kętrzyńska,,,,way
 "Kładka Sądowa",,,,way
 "Kładka Zwierzyniecka",,,,way
 "Kładka Złotnicka",,,,way
-"Kładka Świętego Antoniego",,,,way
 Kłodzka,,,,way
 Kłośna,,,,way
 Lakiernicza,,,,way
@@ -1063,7 +1062,6 @@ Morwowa,,,,way
 "Most Muchoborski",,,,way
 "Most Młyński Północny",,,,way
 "Most Młyński Południowy",,,,way
-"Most Olimpijski",,,,way
 "Most Oporowski",,,,way
 "Most Osobowicki",,,,way
 "Most Oławski",,,,way
@@ -1089,7 +1087,6 @@ Morwowa,,,,way
 "Most Wilczycki",,,,way
 "Most Zakrzowski",,,,way
 "Most Zaleski",,,,way
-"Most Zwierzyniecki",,,,way
 "Most nad Kasiną",,,,way
 "Most Świątnicki",,,,way
 "Most Żernicki",,,,way
@@ -1893,12 +1890,15 @@ Złotowska,,,,way
 "aleja Główna",,,,way
 "aleja Malinowa",,,,way
 "aleja Róż",,,,way
+"aleja Wielkiej Wyspy",,,,way
 "aleja Wiśniowa",,,,way
 "aleja Śliwowa",,,,way
 "bulwar Słoneczny",,,,way
 "kładka Pawłowicka",,,,way
 "kładka Słodowa",,,,way
-"most na Wilczym Kącie",,,,way
+"most Na Wilczym Kącie",,,,way
+"most Olimpijski",,,,way
+"most Zwierzyniecki",,,,way
 "plac Mongolski",,,,way
 "plac Świętego Macieja",,,,way
 "przejście Oławskie",,,,way

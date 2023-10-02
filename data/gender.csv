@@ -41,7 +41,7 @@ name,source,gender,wikidata,type
 "Aleja Generała Józefa Hallera",wikidata,M,Q698651,way
 "Aleja Jana III Sobieskiego",wikidata,M,Q53454,way
 "Aleja Jana Kasprowicza",wikidata,M,Q962432,way
-"Aleja Jana Kochanowskiego",wikidata,M,Q59737,way
+"Aleja Jana Kochanowskiego",wikidata,M,Q59737;Q723324,way
 "Aleja Jana Matejki",wikidata,M,Q189117,way
 "Aleja Juliusza Słowackiego",wikidata,M,Q243267,way
 "Aleja Ludomira Różyckiego",wikidata,M,Q1800718,way
