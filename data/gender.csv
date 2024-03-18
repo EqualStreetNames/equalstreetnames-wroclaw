@@ -37,17 +37,8 @@ name,source,gender,wikidata,type
 "Adama Uznańskiego",wikidata,M,Q61944493,way
 "Admirała Józefa Unruga",wikidata,M,Q659572,way
 "Adolfa Dygasińskiego",wikidata,M,Q2376615,way
-"Aleja Aleksandra Brücknera",wikidata,M,Q112029,way
-"Aleja Generała Józefa Hallera",wikidata,M,Q698651,way
-"Aleja Jana III Sobieskiego",wikidata,M,Q53454,way
-"Aleja Jana Kasprowicza",wikidata,M,Q962432,way
-"Aleja Jana Kochanowskiego",wikidata,M,Q59737;Q723324,way
 "Aleja Jana Matejki",wikidata,M,Q189117,way
 "Aleja Juliusza Słowackiego",wikidata,M,Q243267,way
-"Aleja Ludomira Różyckiego",wikidata,M,Q1800718,way
-"Aleja Marcina Kromera",wikidata,M,Q66649,way
-"Aleja Prezydenta Ryszarda Kaczorowskiego",wikidata,M,Q55835,way
-"Aleja Tadeusza Boya-Żeleńskiego",wikidata,M,Q699597,way
 "Alejka Świętego Andrzeja Apostoła",wikidata,M,Q43399,way
 "Aleksandra Hercena",wikidata,M,Q201221,way
 "Aleksandra Kotsisa",wikidata,M,Q942477,way
@@ -270,9 +261,6 @@ name,source,gender,wikidata,type
 "Mikołaja Reja",wikidata,M,Q458235,way
 "Mikołaja Sępa-Szarzyńskiego",wikidata,M,Q18630,way
 "Mirona Białoszewskiego",wikidata,M,Q462271,way
-"Most Bolesława Krzywoustego",wikidata,M,Q53441,way
-"Most Księdza Piotra Skargi",wikidata,M,Q712463,way
-"Most Romana Dmowskiego",wikidata,M,Q161590,way
 "Norberta Barlickiego",wikidata,M,Q7050296,way
 "Odona Bujwida",wikidata,M,Q18447,way
 "Oskara Kolberga",wikidata,M,Q195301,way
@@ -286,31 +274,25 @@ name,source,gender,wikidata,type
 "Piotra Ignuta",wikidata,M,Q11817556,way
 "Piotra Norblina",wikidata,M,Q941569,way
 "Plac Biskupa Nankiera",wikidata,M,Q331535,way
-"Plac Generała Walerego Wróblewskiego",wikidata,M,Q726985,way
+"Plac Generała Walerego Wróblewskiego",wikidata,M,Q726985;Q941645,way
 "Plac Gustawa Daniłowskiego",wikidata,M,Q5849782,way
 "Plac Icchaka Lejba Pereca",wikidata,M,Q425644,way
 "Plac Jana Pawła II",wikidata,M,Q47499;Q989;Q989,way
 "Plac Ludwika Hirszfelda",wikidata,M,Q43466,way
-"Plac Ludwika Zamenhofa",wikidata,M,Q11758,way
 "Plac Marszałka Józefa Piłsudskiego",wikidata,M,Q885,way
 "Plac Maxa Borna",wikidata,M,Q58978,way
 "Plac Mordechaja Anielewicza",wikidata,M,Q327892,way
 "Plac Stanisława Staszica",wikidata,M,Q708435,way
 "Plac Tadeusza Kościuszki",wikidata,M,Q191479,way
 "Plac Świętego Jana Chrzciciela",wikidata,M,Q40662,way
-"Plac Świętego Krzysztofa",wikidata,M,Q193507,relation+way
 "Plac Świętego Macieja",wikidata,M,Q44020,way
 "Pułkownika Bolesława Orlińskiego",wikidata,M,Q2756713,way
 "Pułkownika Kazimierza Masztalerza",wikidata,M,Q6381210,way
 "Rafała Wojaczka",wikidata,M,Q963705,way
 "Romana Dmowskiego",wikidata,M,Q161590,way
 "Romualda Mielczarskiego",wikidata,M,Q8863456,way
-"Rondo Generała Stanisława Skalskiego",wikidata,M,Q589731,way
-"Rondo Raoula Wallenberga",wikidata,M,Q152850,way
 "Rondo Ronalda Reagana",wikidata,M,Q9960,way
 "Rondo Rotmistrza Witolda Pileckiego",wikidata,M,Q315691,way
-"Rondo Stanisława Szomańskiego",wikidata,M,Q118465854,way
-"Rondo Wiesława Kielara",wikidata,M,Q824647,way
 "Samuela Bogumiła Lindego",wikidata,M,Q1349910,way
 "Seweryna Goszczyńskiego",wikidata,M,Q1254858,way
 "Seweryna Udzieli",wikidata,M,Q198512,way
@@ -373,14 +355,31 @@ name,source,gender,wikidata,type
 "Zygmunta Krasińskiego",wikidata,M,Q245355,way
 "Zygmunta Noskowskiego",wikidata,M,Q245379,way
 "Zygmunta Wróblewskiego",wikidata,M,Q245402,way
+"aleja Aleksandra Brücknera",wikidata,M,Q112029,way
 "aleja Czesława Słani",wikidata,M,Q715765,way
+"aleja Generała Józefa Hallera",wikidata,M,Q698651,way
 "aleja Ignacego Jana Paderewskiego",wikidata,M,Q191957,way
+"aleja Jana III Sobieskiego",wikidata,M,Q53454,way
+"aleja Jana Kasprowicza",wikidata,M,Q962432,way
+"aleja Jana Kochanowskiego",wikidata,M,Q59737;Q723324,way
+"aleja Ludomira Różyckiego",wikidata,M,Q1800718,way
+"aleja Marcina Kromera",wikidata,M,Q66649,way
 "aleja Prezydenta Gabriela Narutowicza",wikidata,M,Q55836,way
+"aleja Prezydenta Ryszarda Kaczorowskiego",wikidata,M,Q55835,way
+"aleja Tadeusza Boya-Żeleńskiego",wikidata,M,Q699597,way
 "bulwar Kardynała Stefana Wyszyńskiego",wikidata,M,Q165522,way
 "bulwar Xawerego Dunikowskiego",wikidata,M,Q923116,way
+"most Księdza Piotra Skargi",wikidata,M,Q712463,way
+"most Romana Dmowskiego",wikidata,M,Q161590,way
 "pasaż Adolfa Radinga",wikidata,M,Q72148,way
 "plac Generała Józefa Bema",wikidata,M,Q266339,way
+"plac Generała Walerego Wróblewskiego",wikidata,M,Q941645,way
+"plac Ludwika Zamenhofa",wikidata,M,Q11758,way
 "rondo Bohdana Karabona",wikidata,M,Q73387157,way
+"rondo Generała Stanisława Skalskiego",wikidata,M,Q589731,way
+"rondo Raoula Wallenberga",wikidata,M,Q152850,way
+"rondo Stanisława Szomańskiego",wikidata,M,Q118465854,way
+"rondo Wiesława Kielara",wikidata,M,Q824647,way
 "skwer Harivansha Rai Bachchana",wikidata,M,Q9575,way
 "skwer Władysława Bełzy",wikidata,M,Q4081881,way
 "wybrzeże Józefa Conrada-Korzeniowskiego",wikidata,M,Q82925,way
