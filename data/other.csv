@@ -261,7 +261,6 @@ Zwiadowców,wikidata,,Q2314719,way
 Agatowa,,,,way
 Agrestowa,,,,way
 "Al. Bzowa",,,,way
-"Al. Irysowa",,,,way
 "Aleja Absolwentów",,,,way
 "Aleja Akacjowa",,,,way
 "Aleja Azaliowa",,,,way
@@ -323,6 +322,7 @@ Artyleryjska,,,,way
 Asfaltowa,,,,way
 Astrowa,,,,way
 Augustowska,,,,way
+"Autostradowa Obwodnica Wrocławia",,,,way
 Azaliowa,,,,way
 Ałunowa,,,,way
 Babimojska,,,,way
@@ -422,6 +422,7 @@ Bursztynowa,,,,way
 Buska,,,,way
 Bułgarska,,,,way
 Byczyńska,,,,way
+Bylinowa,,,,way
 Bystrzycka,,,,way
 Bytowska,,,,way
 Bzowa,,,,way
@@ -710,6 +711,7 @@ Jaksonowicka,,,,way
 "Jana Szanieckiego",,,,way
 "Jana Wesołowskiego",,,,way
 "Jana Zamoyskiego",,,,way
+Jankiela,,,,way
 Janowska,,,,way
 Jantarowa,,,,way
 "Janusza Meissnera",,,,way
@@ -782,6 +784,7 @@ Karmelkowa,,,,way
 "Karola Szymanowskiego",,,,way
 Karpacka,,,,way
 Karpnicka,,,,way
+Kartograficzna,,,,way
 Karwińska,,,,way
 Kasztelańska,,,,way
 Kawalerzystów,,,,way
@@ -1064,12 +1067,16 @@ Morwowa,,,,way
 "Most Osobowicki",,,,way
 "Most Pawłowicki",,,,way
 "Most Piaskowy",,,,way
+"Most Polanowicki",,,,way
 "Most Pomorski Środkowy",,,,way
+"Most Ratyński",,,,way
+"Most Rędziński",,,,way
 "Most Szczytnicki",,,,way
 "Most Słodowy",,,,way
 "Most Trzebnicki",,,,way
 "Most Trzebnicki Północny",,,,way
 "Most Uniwersytecki",,,,way
+"Most Widawski",,,,way
 "Most Wilczycki",,,,way
 "Most Zaleski",,,,way
 "Most nad Kasiną",,,,way
@@ -1629,6 +1636,7 @@ Tatarska,,,,way
 Tatrzańska,,,,way
 Tczewska,,,,way
 Teatralna,,,,way
+Telimeny,,,,way
 Tenisowa,,,,way
 "Teofila Modelskiego",,,,way
 Terenowa,,,,way
@@ -1848,6 +1856,7 @@ Złotostocka,,,,way
 Złotowska,,,,way
 "al. Bzowa",,,,way
 "al. Działkowców",,,,way
+"al. Irysowa",,,,way
 "al. Jabłkowa",,,,way
 "al. Jagodowa",,,,way
 "al. Kalinowa",,,,way
@@ -1880,14 +1889,11 @@ Złotowska,,,,way
 "most Oporowski",,,,way
 "most Oławski",,,,way
 "most Partynicki",,,,way
-"most Polanowicki",,,,way
 "most Racławicki",,,,way
-"most Ratyński",,,,way
 "most Sołtysowicki",,,,way
 "most Strachociński",,,,way
 "most Strzegomski",,,,way
 "most Warszawski",,,,way
-"most Widawski",,,,way
 "most Zakrzowski",,,,way
 "most Zwierzyniecki",,,,way
 "mosty Uniwersyteckie",,,,way
