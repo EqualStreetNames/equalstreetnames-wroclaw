@@ -130,6 +130,7 @@ Mosiężna,wikidata,,Q39782,way
 "Most Pokoju",wikidata,,Q454,way
 "Most Pomorski Północny",wikidata,,Q104520,way
 "Most Pomorski Południowy",wikidata,,Q104520,way
+"Most Pomorski Środkowy",wikidata,,Q104520,way
 "Most Tumski",wikidata,,Q2657474,way
 Nauczycielska,wikidata,,Q37226,way
 Norweska,wikidata,,Q20,way
@@ -152,7 +153,7 @@ Perska,wikidata,,Q3746183,way
 Piesza,wikidata,,Q221488,way
 Pirenejska,wikidata,,Q12431,way
 Piwna,wikidata,,Q44,way
-"Plac Dominikański",wikidata,,Q131479,way
+"Plac Bohaterów Getta",wikidata,,Q155669;Q75784;Q160161,way
 "Plac Indyjski",wikidata,,Q668,way
 "Plac Katedralny",wikidata,,Q910211,way
 "Plac Kościelny",wikidata,,Q11741013,way
@@ -170,6 +171,7 @@ Poranna,wikidata,,Q7722,way
 Poznańska,wikidata,,Q268,way
 Poświęcka,wikidata,,Q11826431,way
 Płaska,wikidata,,Q18389975,way
+Redycka,wikidata,,Q479014,way
 Rodła,wikidata,,Q7357514,way
 Rowerowa,wikidata,,Q11442,way
 "Róży Wiatrów",wikidata,,Q640047,way
@@ -218,6 +220,7 @@ Turecka,wikidata,,Q43,way
 Tybetańska,wikidata,,Q17269,way
 Tęczowa,wikidata,,Q1052,way
 Ukraińska,wikidata,,Q212,way
+Uzbecka,wikidata,,Q265,way
 Wapienna,wikidata,,Q250423,way
 Warmińska,wikidata,,Q322620,way
 Warszawska,wikidata,,Q270,way
@@ -243,7 +246,9 @@ Zwiadowców,wikidata,,Q2314719,way
 "bulwar Dedala",wikidata,,Q134756,way
 "bulwar Ikara",wikidata,,Q34041,way
 "kładka Muzealna",wikidata,,Q1329563,way
-"plac Grunwaldzki",wikidata,,Q33570,way
+"most Kłokoczycki",wikidata,,Q11752140,way
+"plac Dominikański",wikidata,,Q131479,way
+"plac Grunwaldzki",wikidata,,Q33570,relation+way
 Łabędzia,wikidata,,Q34384,way
 Łaciarska,wikidata,,Q152355,way
 Ślężna,wikidata,,Q8081940,way
@@ -253,7 +258,6 @@ Zwiadowców,wikidata,,Q2314719,way
 Żelazna,wikidata,,Q677,way
 Żmigrodzka,wikidata,,Q393138,way
 Żmudzka,wikidata,,Q111362,way
-"""Ósemka""",,,,way
 "11 Listopada",,,,way
 "3 Maja",,,,way
 "8 Maja",,,,way
@@ -352,7 +356,6 @@ Beskidzka,,,,way
 Bezpieczna,,,,way
 Beżowa,,,,way
 Biała,,,,way
-"Białej Magnolii",,,,way
 Białkowska,,,,way
 Białodrzewna,,,,way
 Białogardzka,,,,way
@@ -388,6 +391,7 @@ Boiskowa,,,,way
 "Bolesława Biegasa",,,,way
 Bolesławiecka,,,,way
 Bolkowska,,,,way
+Bombardierska,,,,way
 Borówczana,,,,way
 Borowikowa,,,,way
 Borowska,,,,way
@@ -546,6 +550,7 @@ Elbląska,,,,way
 Elementarzowa,,,,way
 "Emila Zoli",,,,way
 Energetyczna,,,,way
+"Estakada Gądowianka",,,,way
 Etnografów,,,,way
 "Eugeniusza Kwiatkowskiego",,,,way
 "Eugeniusza Romera",,,,way
@@ -580,6 +585,7 @@ Gałowska,,,,way
 "Generała Ignacego Prądzyńskiego",,,,way
 "Generała Józefa Kustronia",,,,way
 "Generała Józefa Sowińskiego",,,,way
+"Generała Kazimierza Pułaskiego",,,,way
 "Generała Mariusza Zaruskiego",,,,way
 "Generała Stanisława Kopańskiego",,,,way
 "Generała Stanisława Maczka",,,,way
@@ -763,7 +769,6 @@ Jędrzejowska,,,,way
 Kaczeńcowa,,,,way
 Kajakarzy,,,,way
 Kalinowa,,,,way
-Kameliowa,,,,way
 Kamieniecka,,,,way
 Kamiennogórska,,,,way
 "Kamila Giżyckiego",,,,way
@@ -1001,7 +1006,6 @@ Małopolska,,,,way
 Małoszyńska,,,,way
 Maślicka,,,,way
 Mechaników,,,,way
-Meidziana,,,,way
 "Melchiora Wańkowicza",,,,way
 Meliorancka,,,,way
 "Meliorancka Południowa",,,,way
@@ -1056,7 +1060,7 @@ Morelowa,,,,way
 "Morelowa aleja",,,,way
 Morska,,,,way
 Morwowa,,,,way
-"Most Brodzki",,,,way
+"Most Bolesława Chrobrego",,,,way
 "Most Kilometrowy",,,,way
 "Most Kleciński",,,,way
 "Most Maślicki",,,,way
@@ -1065,19 +1069,15 @@ Morwowa,,,,way
 "Most Młyński Północny",,,,way
 "Most Młyński Południowy",,,,way
 "Most Osobowicki",,,,way
-"Most Pawłowicki",,,,way
 "Most Piaskowy",,,,way
 "Most Polanowicki",,,,way
-"Most Pomorski Środkowy",,,,way
 "Most Ratyński",,,,way
-"Most Rędziński",,,,way
 "Most Szczytnicki",,,,way
 "Most Słodowy",,,,way
 "Most Trzebnicki",,,,way
 "Most Trzebnicki Północny",,,,way
 "Most Uniwersytecki",,,,way
 "Most Widawski",,,,way
-"Most Wilczycki",,,,way
 "Most Zaleski",,,,way
 "Most nad Kasiną",,,,way
 "Most Średzki Wschodni",,,,way
@@ -1177,6 +1177,7 @@ Orla,,,,way
 Orna,,,,way
 Orzechowa,,,,way
 Osadnicza,,,,way
+Ósemka,,,,way
 Osiecka,,,,way
 Osiedlowa,,,,way
 Osiniecka,,,,way
@@ -1260,7 +1261,6 @@ Piękna,,,,way
 Piławska,,,,way
 Piłkarzy,,,,way
 Pińska,,,,way
-"Plac Bohaterów Getta",,,,way
 "Plac Bzowy",,,,way
 "Plac Ciesielski",,,,way
 "Plac Czysty",,,,relation
@@ -1269,7 +1269,6 @@ Pińska,,,,way
 "Plac Kaliski",,,,way
 "Plac Konstytucji 3 Maja",,,,way
 "Plac Legionów",,,,way
-"Plac Polski",,,,way
 "Plac Powstańców Warszawy",,,,way
 "Plac Rozjezdny",,,,way
 "Plac Solidarności",,,,way
@@ -1390,7 +1389,6 @@ Rawska,,,,way
 Raźna,,,,way
 Rdestowa,,,,way
 Redarów,,,,way
-Redycka,,,,way
 Rejonowa,,,,way
 Reszelska,,,,way
 Rewalska,,,,way
@@ -1476,7 +1474,6 @@ Skoczna,,,,way
 Skoroszowska,,,,way
 Skrajna,,,,way
 Skrzydlata,,,,way
-"Skwer Czesława Rodziewicza",,,,way
 "Skwer Niezależnego Zrzeszenia Studentów",,,,relation
 "Skwer Obrońców Helu",,,,way
 "Skwer Pionierów Wrocławskich",,,,way
@@ -1679,7 +1676,6 @@ Upalna,,,,way
 Uraska,,,,way
 Urodzajna,,,,way
 Ustronie,,,,way
-Uzbecka,,,,way
 Uznamska,,,,way
 Ułańska,,,,way
 "Vasco da Gamy",,,,way
@@ -1696,7 +1692,6 @@ Waniliowa,,,,way
 Warciańska,,,,way
 Warsztatowa,,,,way
 Watowa,,,,way
-Wał,,,,way
 Wałowa,,,,way
 Wedutowa,,,,way
 Wejherowska,,,,way
@@ -1879,25 +1874,34 @@ Złotowska,,,,way
 "aleja Róż",,,,way
 "aleja Śliwowa",,,,way
 "bulwar Słoneczny",,,,way
-"estakada Gądowianka",,,,way
 "kładka Pawłowicka",,,,way
 "kładka Słodowa",,,,way
-"most Bolesława Chrobrego",,,,way
+"most Brodzki",,,,way
 "most Grunwaldzki",,,,way
 "most Jarnołtowski",,,,way
+"most Marszowicki",,,,way
+"most Milenijny",,,,way
 "most Muchoborski",,,,way
 "most Oporowski",,,,way
+"most Osobowicki",,,,way
 "most Oławski",,,,way
 "most Partynicki",,,,way
+"most Pawłowicki",,,,way
+"most Pilczycki",,,,way
+"most Pęgowski",,,,way
 "most Racławicki",,,,way
+"most Rakowiecki",,,,way
+"most Rędziński",,,,way
 "most Sołtysowicki",,,,way
 "most Strachociński",,,,way
 "most Strzegomski",,,,way
 "most Warszawski",,,,way
+"most Wilczycki",,,,way
 "most Zakrzowski",,,,way
 "most Zwierzyniecki",,,,way
 "mosty Uniwersyteckie",,,,way
 "plac Mongolski",,,,way
+"plac Polski",,,,way
 "plac Powstańców Śląskich",,,,way
 "plac Teatralny",,,,way
 "plac Westerplatte",,,,way
@@ -1937,6 +1941,7 @@ Złotowska,,,,way
 "rondo Żołnierzy Łącznościowców",,,,way
 "skwer Anny Walentynowicz",,,,way
 "skwer Charlesa Proteusa Steinmetza",,,,way
+"skwer Czesława Rodziewicza",,,,way
 "skwer Dzieci Sybiru",,,,way
 "skwer Hansa Sharouna",,,,way
 "skwer Jerzego Szmajdzińskiego",,,,way
@@ -1947,6 +1952,7 @@ Złotowska,,,,way
 "skwer Wrocławskich Rotarian",,,,way
 "skwer Wzajemnego Szacunku",,,,way
 "tunel centralny",,,,way
+"wyspa Słodowa",,,,way
 Ćwiczebna,,,,way
 Ładna,,,,way
 Łagiewnicka,,,,way

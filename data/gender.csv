@@ -38,7 +38,6 @@ name,source,gender,wikidata,type
 "Admirała Józefa Unruga",wikidata,M,Q659572,way
 "Adolfa Dygasińskiego",wikidata,M,Q2376615,way
 "Aleja Jana Matejki",wikidata,M,Q189117,way
-"Aleja Juliusza Słowackiego",wikidata,M,Q243267,way
 "Alejka Świętego Andrzeja Apostoła",wikidata,M,Q43399,way
 "Aleksandra Hercena",wikidata,M,Q201221,way
 "Aleksandra Kotsisa",wikidata,M,Q942477,way
@@ -114,7 +113,6 @@ name,source,gender,wikidata,type
 "Generała Józefa Wybickiego",wikidata,M,Q370069,way
 "Generała Juliana Filipowicza",wikidata,M,Q11729019,way
 "Generała Karola Kniaziewicza",wikidata,M,Q958377,way
-"Generała Kazimierza Pułaskiego",wikidata,M,Q381854,way
 "Generała Kazimierza Sosnkowskiego",wikidata,M,Q2988903,way
 "Generała Leopolda Okulickiego",wikidata,M,Q569390,way
 "Generała Ludwika Mierosławskiego",wikidata,M,Q531240,way
@@ -363,6 +361,7 @@ name,source,gender,wikidata,type
 "aleja Jana III Sobieskiego",wikidata,M,Q53454,way
 "aleja Jana Kasprowicza",wikidata,M,Q962432,way
 "aleja Jana Kochanowskiego",wikidata,M,Q59737;Q723324,way
+"aleja Juliusza Słowackiego",wikidata,M,Q243267,way
 "aleja Ludomira Różyckiego",wikidata,M,Q1800718,way
 "aleja Marcina Kromera",wikidata,M,Q66649,way
 "aleja Prezydenta Gabriela Narutowicza",wikidata,M,Q55836,way
@@ -370,6 +369,7 @@ name,source,gender,wikidata,type
 "aleja Tadeusza Boya-Żeleńskiego",wikidata,M,Q699597,way
 "bulwar Kardynała Stefana Wyszyńskiego",wikidata,M,Q165522,way
 "bulwar Xawerego Dunikowskiego",wikidata,M,Q923116,way
+"most Bolesława Krzywoustego",wikidata,M,Q53441,way
 "most Księdza Piotra Skargi",wikidata,M,Q712463,way
 "pasaż Adolfa Radinga",wikidata,M,Q72148,way
 "plac Generała Józefa Bema",wikidata,M,Q266339,way
@@ -400,7 +400,6 @@ Wandy,config,F,,way
 "Andrzeja Struga",config,M,,way
 "Bohdana Zaleskiego",config,M,,way
 "Jana Szczyrki",config,M,,way
-"Most Władysława Sikorskiego",config,M,,way
 "Piotra Czajkowskiego",config,M,,way
 "Podpułkownika Stanisława Skarżyńskiego",config,M,,way
 "Pułkownika Stanisława Dąbka",config,M,,way
@@ -409,3 +408,4 @@ Wandy,config,F,,way
 "Stanisława Żółkiewskiego",config,M,,way
 "Stefana Czarnieckiego",config,M,,way
 "Zygmunta Sierakowskiego",config,M,,way
+"most Władysława Sikorskiego",config,M,,way
