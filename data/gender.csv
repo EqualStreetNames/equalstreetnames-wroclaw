@@ -37,7 +37,6 @@ name,source,gender,wikidata,type
 "Adama Uznańskiego",wikidata,M,Q61944493,way
 "Admirała Józefa Unruga",wikidata,M,Q659572,way
 "Adolfa Dygasińskiego",wikidata,M,Q2376615,way
-"Aleja Jana Matejki",wikidata,M,Q189117,way
 "Alejka Świętego Andrzeja Apostoła",wikidata,M,Q43399,way
 "Aleksandra Hercena",wikidata,M,Q201221,way
 "Aleksandra Kotsisa",wikidata,M,Q942477,way
@@ -76,6 +75,7 @@ name,source,gender,wikidata,type
 "Bolesława Ulanowskiego",wikidata,M,Q9176972,way
 "Braci Gierymskich",wikidata,M,Q1886542;Q958927,way
 "Brata Alberta",wikidata,M,Q924770,way
+"Bronisława Knastera",wikidata,M,Q721176,way
 "Bulwar Księdza Aleksandra Zienkiewicza",wikidata,M,Q9146208,way
 "Bulwar Piotra Włostowica",wikidata,M,Q1888873,way
 "Bulwar Profesora Józefa Zwierzyckiego",wikidata,M,Q11731700,way
@@ -243,6 +243,7 @@ name,source,gender,wikidata,type
 "Marcelego Handelsmana",wikidata,M,Q766343,way
 "Marcelego Nenckiego",wikidata,M,Q1715588,way
 "Marcina Borelowskiego",wikidata,M,Q11767495,way
+"Mariana Falskiego",wikidata,M,Q219570,way
 "Mariana Morelowskiego",wikidata,M,Q11769579,way
 "Mariana Smoluchowskiego",wikidata,M,Q541895,way
 "Marszałka Józefa Piłsudskiego",wikidata,M,Q885,way
@@ -281,7 +282,6 @@ name,source,gender,wikidata,type
 "Plac Marszałka Józefa Piłsudskiego",wikidata,M,Q885,way
 "Plac Maxa Borna",wikidata,M,Q58978,way
 "Plac Mordechaja Anielewicza",wikidata,M,Q327892,way
-"Plac Stanisława Staszica",wikidata,M,Q708435,way
 "Plac Tadeusza Kościuszki",wikidata,M,Q191479,way
 "Plac Świętego Jana Chrzciciela",wikidata,M,Q40662,way
 "Plac Świętego Macieja",wikidata,M,Q44020,way
@@ -291,7 +291,7 @@ Pomorska,wikidata,M,Q104520;Q708435,way
 "Rafała Wojaczka",wikidata,M,Q963705,way
 "Romana Dmowskiego",wikidata,M,Q161590,way
 "Romualda Mielczarskiego",wikidata,M,Q8863456,way
-"Rondo Ronalda Reagana",wikidata,M,Q9960,way
+"Rondo Ronalda Reagana",wikidata,M,Q126499838;Q9960,way
 "Rondo Rotmistrza Witolda Pileckiego",wikidata,M,Q315691,way
 "Samuela Bogumiła Lindego",wikidata,M,Q1349910,way
 "Seweryna Goszczyńskiego",wikidata,M,Q1254858,way
@@ -327,7 +327,7 @@ Pomorska,wikidata,M,Q104520;Q708435,way
 "Wilhelma Roentgena",wikidata,M,Q35149,way
 "Wincentego Pola",wikidata,M,Q133465,way
 "Wita Stwosza",wikidata,M,Q163800,way
-"Witolda Lipińskiego",wikidata,M,Q9375743,way
+"Witolda Lipińskiego „Szczedronia”",wikidata,M,Q9375743,way
 "Witolda Lutosławskiego",wikidata,M,Q156472,way
 "Witolda Wojtkiewicza",wikidata,M,Q2093769,way
 "Wojciecha Bogusławskiego",wikidata,M,Q290902,way
@@ -362,6 +362,7 @@ Pomorska,wikidata,M,Q104520;Q708435,way
 "aleja Jana III Sobieskiego",wikidata,M,Q53454,way
 "aleja Jana Kasprowicza",wikidata,M,Q962432,way
 "aleja Jana Kochanowskiego",wikidata,M,Q59737;Q723324,way
+"aleja Jana Matejki",wikidata,M,Q189117,way
 "aleja Juliusza Słowackiego",wikidata,M,Q243267,way
 "aleja Ludomira Różyckiego",wikidata,M,Q1800718,way
 "aleja Marcina Kromera",wikidata,M,Q66649,way
@@ -376,6 +377,7 @@ Pomorska,wikidata,M,Q104520;Q708435,way
 "plac Generała Józefa Bema",wikidata,M,Q266339,way
 "plac Generała Walerego Wróblewskiego",wikidata,M,Q941645,way
 "plac Ludwika Zamenhofa",wikidata,M,Q11758,way
+"plac Stanisława Staszica",wikidata,M,Q708435,way
 "rondo Bohdana Karabona",wikidata,M,Q73387157,way
 "rondo Generała Stanisława Skalskiego",wikidata,M,Q589731,way
 "rondo Raoula Wallenberga",wikidata,M,Q152850,way
