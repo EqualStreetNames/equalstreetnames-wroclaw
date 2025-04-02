@@ -164,6 +164,7 @@ Piwna,wikidata,,Q44,way
 "Plac Bohaterów Getta",wikidata,,Q155669;Q75784;Q160161,way
 "Plac Indyjski",wikidata,,Q668,way
 "Plac Katedralny",wikidata,,Q910211,way
+"Plac Konstytucji 3 Maja",wikidata,,Q1129096,way
 "Plac Kościelny",wikidata,,Q11741013,way
 "Plac Muzealny",wikidata,,Q15127520,way
 "Plac Nowy Targ",wikidata,,Q330284,way
@@ -513,6 +514,7 @@ Dobroszycka,,,,way
 Dobrzańska,,,,way
 Dobrzykowicka,,,,way
 Dobrzyńska,,,,way
+"Dojazd pożarowy 30",,,,way
 Dokerska,,,,way
 Dolna,,,,way
 Dolnobrzeska,,,,way
@@ -1222,6 +1224,8 @@ Pałucka,,,,way
 Pedagogiczna,,,,way
 Pejzażowa,,,,way
 Perkusyjna,,,,way
+"Peron 1",,,,relation
+"Peron 4",,,,relation
 Peronowa,,,,way
 Perzowa,,,,way
 Petuniowa,,,,way
@@ -1261,16 +1265,12 @@ Pińska,,,,way
 "Plac Ciesielski",,,,way
 "Plac Czysty",,,,relation
 "Plac Franciszkański",,,,way
-"Plac Generala Walerego Wróblewskiego",,,,way
 "Plac Kaliski",,,,way
-"Plac Konstytucji 3 Maja",,,,way
 "Plac Legionów",,,,way
 "Plac Powstańców Warszawy",,,,way
-"Plac Powstańców Wielkopolskich",,,,relation
 "Plac Rozjezdny",,,,way
 "Plac Solidarności",,,,way
 "Plac Srebrny",,,,way
-"Plac Strzegomski",,,,way
 "Plac Strzelecki",,,,way
 "Plac Słowiański",,,,way
 "Plac Uniwersytecki",,,,relation+way
@@ -1296,6 +1296,7 @@ Polkowicka,,,,way
 "Polnych Niezapominajek",,,,way
 Pomarańczowa,,,,way
 Pomidorowa,,,,way
+"Pomost Romana Faligowskiego",,,,way
 Popowicka,,,,way
 Porajowska,,,,way
 Poronińska,,,,way
@@ -1398,6 +1399,7 @@ Rodzinna,,,,way
 "Rodziny Kornów",,,,way
 Rodzynkowa,,,,way
 Rogowska,,,,way
+Rokitnikowa,,,,way
 Rolna,,,,way
 Rolnicza,,,,way
 "Romana Zmorskiego",,,,way
@@ -1424,7 +1426,7 @@ Rychtalska,,,,way
 Rychła,,,,way
 Rymarska,,,,way
 Rynek,,,,relation+way
-"Rynek Psiego Pola",,,,way
+"Rynek Psiego Pola",,,,relation+way
 "Rynek Ratusz",,,,way
 "Rynek Szczepiński",,,,way
 Rysia,,,,way
@@ -1476,6 +1478,7 @@ Skoczna,,,,way
 Skoroszowska,,,,way
 Skrajna,,,,way
 Skrzydlata,,,,way
+Skrzypowa,,,,way
 "Skwer Niezależnego Zrzeszenia Studentów",,,,relation
 "Skwer Obrońców Helu",,,,way
 "Skwer Powstańców Warszawskich",,,,way
@@ -1907,9 +1910,9 @@ Złotowska,,,,way
 "plac Mongolski",,,,way
 "plac Polski",,,,way
 "plac Powstańców Śląskich",,,,way
+"plac Strzegomski",,,,way
 "plac Teatralny",,,,way
 "plac Westerplatte",,,,way
-"plac Świętego Krzysztofa",,,,way
 "plac Świętego Mikołaja",,,,way
 "przejście Oławskie",,,,way
 "rondo 11. Pułku Lotnictwa Myśliwskiego",,,,way
@@ -1948,10 +1951,13 @@ Złotowska,,,,way
 "skwer Charlesa Proteusa Steinmetza",,,,way
 "skwer Czesława Rodziewicza",,,,way
 "skwer Dzieci Sybiru",,,,way
+"skwer Edmunda Kajdasza",,,,way
 "skwer Hansa Scharouna",,,,way
 "skwer Jerzego Szmajdzińskiego",,,,way
+"skwer Księdza Dietricha Bonhoeffera",,,,way
 "skwer Księdza Franciszka Skorusy",,,,way
 "skwer Ofiar Obozu Burgweide",,,,way
+"skwer Solidarności Polsko-Czesko-Słowackiej",,,,way
 "skwer Tymoteusza Karpowicza",,,,way
 "skwer Wojciecha Jerzego Hasa",,,,way
 "skwer Wojciecha Młynarskiego",,,,relation+way

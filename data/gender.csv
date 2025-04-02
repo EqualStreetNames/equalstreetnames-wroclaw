@@ -274,7 +274,7 @@ name,source,gender,wikidata,type
 "Piotra Ignuta",wikidata,M,Q11817556,way
 "Piotra Norblina",wikidata,M,Q941569,way
 "Plac Biskupa Nankiera",wikidata,M,Q331535,way
-"Plac Generała Walerego Wróblewskiego",wikidata,M,Q726985;Q941645,way
+"Plac Generała Walerego Wróblewskiego",wikidata,M,Q726985,way
 "Plac Gustawa Daniłowskiego",wikidata,M,Q5849782,way
 "Plac Icchaka Lejba Pereca",wikidata,M,Q425644,way
 "Plac Jana Pawła II",wikidata,M,Q47499;Q989;Q989,way
@@ -375,9 +375,10 @@ Pomorska,wikidata,M,Q104520;Q708435,way
 "most Księdza Piotra Skargi",wikidata,M,Q712463,way
 "pasaż Adolfa Radinga",wikidata,M,Q72148,way
 "plac Generała Józefa Bema",wikidata,M,Q266339,way
-"plac Generała Walerego Wróblewskiego",wikidata,M,Q941645,way
+"plac Generała Walerego Wróblewskiego",wikidata,M,Q726985;Q941645,way
 "plac Ludwika Zamenhofa",wikidata,M,Q11758,way
 "plac Stanisława Staszica",wikidata,M,Q708435,way
+"plac Świętego Krzysztofa",wikidata,M,Q193507,way
 "plac Świętego Macieja",wikidata,M,Q44020,way
 "rondo Bohdana Karabona",wikidata,M,Q73387157,way
 "rondo Generała Stanisława Skalskiego",wikidata,M,Q589731,way
