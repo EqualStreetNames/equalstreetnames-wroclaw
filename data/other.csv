@@ -246,6 +246,7 @@ Wygodna,wikidata,,Q5166129,way
 Węgierska,wikidata,,Q28,way
 Zachodnia,wikidata,,Q679,way
 Zagrzebska,wikidata,,Q1435,way
+Zaporoska,wikidata,,Q157835,way
 Zdrowa,wikidata,,Q12147,way
 Zegarmistrzowska,wikidata,,Q157798,way
 Zwiadowców,wikidata,,Q2314719,way
@@ -655,7 +656,6 @@ Głuszycka,,,,way
 Głębowicka,,,,way
 Hajducka,,,,way
 Halicka,,,,way
-"Haliny Halskiej",,,,way
 Halna,,,,way
 "Hanny Wałkówskiej",,,,way
 Harcerska,,,,way
@@ -945,7 +945,7 @@ Limanowska,,,,way
 Liońska,,,,way
 Lipska,,,,way
 Lisia,,,,way
-Litomska,,,,relation
+Litomska,,,,way
 Liściasta,,,,way
 Lniana,,,,way
 Logiczna,,,,way
@@ -1404,7 +1404,6 @@ Rolna,,,,way
 Rolnicza,,,,way
 "Romana Zmorskiego",,,,way
 "Romualda Cabaja",,,,way
-"Rotmistrza Witolda Pileckiego",,,,way
 Równa,,,,way
 Rozbrat,,,,way
 Rozjazdowa,,,,way
@@ -1801,7 +1800,6 @@ Zamojska,,,,way
 Zamłynie,,,,way
 Zaolziańska,,,,way
 Zapaśnicza,,,,way
-Zaporoska,,,,way
 Zapotocze,,,,way
 Zarzecze,,,,way
 Zatorska,,,,way
