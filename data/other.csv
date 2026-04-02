@@ -250,6 +250,7 @@ Dróżnicza,,,,way
 Drukarska,,,,way
 Drzewna,,,,way
 Dubrownicka,,,,way
+"Ducha Świętego",,,,way
 Dukielska,,,,way
 Dusznicka,,,,way
 Dworcowa,,,,way
@@ -316,7 +317,6 @@ Gałowska,,,,way
 "Generała Ignacego Prądzyńskiego",,,,way
 "Generała Józefa Kustronia",,,,way
 "Generała Józefa Sowińskiego",,,,way
-"Generała Kazimierza Pułaskiego",,,,way
 "Generała Mariusza Zaruskiego",,,,way
 "Generała Stanisława Kopańskiego",,,,way
 "Generała Stanisława Maczka",,,,way
@@ -589,6 +589,7 @@ Krobielowicka,,,,way
 Krokusowa,,,,way
 Królewiecka,,,,way
 Królewska,,,,way
+"Królowej Marysieńki",,,,way
 Krótka,,,,way
 Krotoszyńska,,,,way
 Krowia,,,,way
@@ -1012,6 +1013,7 @@ Pińska,,,,way
 "Plac Wyzwolenia",,,,way
 "Plac Zgody",,,,way
 "Plac Świętojański",,,,way
+Planetarna,,,,way
 Plenerowa,,,,way
 Pochyła,,,,way
 Pocztowa,,,,way
@@ -1581,6 +1583,7 @@ Ziemowita,,,,way
 Zimowa,,,,way
 Ziębicka,,,,way
 "Zofii Chrzanowskiej",,,,way
+"Zofii Gostomskiej-Zarzyckiej",,,,way
 "Zofii Kossak-Szczuckiej",,,,way
 "Zofii Kuratowskiej",,,,way
 "Zofii Nałkowskiej",,,,way
@@ -1632,6 +1635,7 @@ Złotowska,,,,way
 "bulwar Słoneczny",,,,way
 "kładka Pawłowicka",,,,way
 "kładka Słodowa",,,,way
+"kładka południowa",,,,way
 "most Brodzki",,,,way
 "most Jarnołtowski",,,,way
 "most Marszowicki",,,,way
@@ -1704,9 +1708,11 @@ Złotowska,,,,way
 "skwer Księdza Dietricha Bonhoeffera",,,,way
 "skwer Księdza Franciszka Skorusy",,,,way
 "skwer Ofiar Obozu Burgweide",,,,way
+"skwer Siemianowski",,,,way
 "skwer Solidarności Polsko-Czesko-Słowackiej",,,,way
 "skwer Tymoteusza Karpowicza",,,,way
 "skwer Wojciecha Jerzego Hasa",,,,way
+"skwer Wojciecha Korfantego",,,,way
 "skwer Wojciecha Młynarskiego",,,,relation+way
 "skwer Wrocławskich Rotarian",,,,way
 "skwer Wzajemnego Szacunku",,,,way

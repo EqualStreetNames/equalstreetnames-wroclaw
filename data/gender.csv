@@ -275,7 +275,6 @@ Zwiadowców,wikidata,-,Q2314719,way
 Ślężna,wikidata,-,Q8081940,way
 Śrutowa,wikidata,-,Q278938,way
 Świdnicka,wikidata,-,Q387396,relation+way
-"Świętego Ducha",wikidata,-,Q37302,way
 "Świętej Trójcy",wikidata,-,Q37090,way
 Świętokrzyska,wikidata,-,Q380356,way
 Żelazna,wikidata,-,Q677,way
@@ -673,7 +672,7 @@ Pomorska,wikidata,?,Q104520;Q708435,way
 "wybrzeże Stanisława Wyspiańskiego",wikidata,M,Q312627,way
 "Świętego Antoniego",wikidata,M,Q167477,way
 "Świętego Idziego",wikidata,M,Q149727,way
-"Świętego Jana Kapistrana",wikidata,M,Q310359,way
+"Świętego Jana",wikidata,M,Q310359,way
 "Świętego Jerzego",wikidata,M,Q48438,way
 "Świętego Józefa",wikidata,M,Q128267,way
 "Świętego Marcina",wikidata,M,Q133704,way
@@ -681,6 +680,7 @@ Pomorska,wikidata,?,Q104520;Q708435,way
 "Świętego Wita",wikidata,M,Q212850,way
 "Żwirki i Wigury",wikidata,M,Q3496781;Q3849277,way
 "Żwirki i Wigury Zachodnia",wikidata,M,Q3496781;Q3849277,way
+"Generała Kazimierza Pułaskiego",wikidata,MX,Q381854,way
 Wandy,config,F,,way
 "Aleksandra Ostrowskiego",config,M,,way
 "Andrzeja Struga",config,M,,way
